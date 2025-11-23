@@ -8,7 +8,7 @@ Project Layout
 
 ### Django
 
-Apps go in the project directory `case_management`
+Apps go in the project directory `case_management-saas`
 
 
 ### Python
